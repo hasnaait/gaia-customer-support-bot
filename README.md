@@ -47,3 +47,11 @@ _GCS_ is a customer support bot that helps businesses answer frequently asked qu
             
             
 Thank you
+
+
+    Our Team
+        - Hasnaa Ait Abdelmalk
+        -  
+    Supervised By :    
+        - Pr. ABDELHAK MAHMOUDI
+        
