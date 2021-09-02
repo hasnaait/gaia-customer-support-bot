@@ -36,7 +36,7 @@ _GCS_ is a customer support bot that helps businesses answer frequently asked qu
  ## chatbots ?
         A Chatbot known as an Conversational agent is a service either powered by rules or artificial intelligence(little) that you interact via a chat interface.
         Ex: A weather bot ( you can ask all weather questions ), news bot(a bot for those who like to keep up with the news daily) , Cricketscore bot and etc…
-       So for this project we implemented a Customer Support Bot for an online shop ,that propose 2 langauges English and Frensh
+       So for this project we implemented an exemple of  Customer Support Bot for an online shop ,that propose 2 langauges English and Frensh and that can be applied to          different context by modifying the training data
 
 
   Dependencies
