@@ -51,7 +51,7 @@ Thank you
 
     Our Team
         - Hasnaa Ait Abdelmalk
-        -  
+        - Sid Belbachir
     Supervised By :    
         - Pr. ABDELHAK MAHMOUDI
         
