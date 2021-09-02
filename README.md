@@ -10,13 +10,7 @@
 ## What is GCS Bot ?
 _GCS_ is a customer support bot that helps businesses answer frequently asked questions so customer support agents can focus on more complicated issues.
 
-##### Example, 
-if you are building a chat bot using IBM watson, it might not have much intelligence(No offence IBM, infact all the frameworks are similar) but if you try to understand the technology ,methods the IBM watson used to win the game called jeopardy , you will be amazed.
-here IBM watson is one of the best Q&A systems ( I am not talking about chatbot here cause for the chatbot, IBM watson is normal like any other tool).
-I hope it is not confusing , even if it is.. you will get the idea as you read through.
-
  
-
 ##  Language :
 
 <div>
