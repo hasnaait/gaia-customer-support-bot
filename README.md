@@ -11,10 +11,11 @@
 _GCS_ is a customer support bot that helps businesses answer frequently asked questions so customer support agents can focus on more complicated issues.
 
 ##### Example, 
+if you are building a chat bot using IBM watson, it might not have much intelligence(No offence IBM, infact all the frameworks are similar) but if you try to understand the technology ,methods the IBM watson used to win the game called jeopardy , you will be amazed.
+here IBM watson is one of the best Q&A systems ( I am not talking about chatbot here cause for the chatbot, IBM watson is normal like any other tool).
+I hope it is not confusing , even if it is.. you will get the idea as you read through.
 
-An NER machine learning (ML) model might detect the word “Google” in a text and classify it as a “Company”.
-
-In this notebook will be passing over the most common libraries in NLP, from exploiting existing models and libraries (`NLTK, SPACY, CRFClassifier, HuggingFace Transformers`..), then will try to train a NN model using `keras and tensorflow` to recognize all the entities 
+ 
 
 ##  Language :
 
